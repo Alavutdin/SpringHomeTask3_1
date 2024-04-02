@@ -1,1 +1,1 @@
-https://github.com/Alavutdin/SpringHomeTask3/blob/master/src/main/java/com/example/sem3HomeTask/Sem3HomeTaskApplication.java
+# Использование Spring для разработки серверного приложения
